@@ -8,6 +8,7 @@
   In the interest of sharing more personal things about myself, I have curated a list of some ["favorites" below](https://github.com/sadsoap/about-me/blob/more-about-me/index.md#favorite-list). Before that, however, here are some of my general priorities I use to guide myself in life. 
 
  ### Some Priorities ###
+ 
  1. Family
  2. Scholastic/Career dedications
  3. Self-care
