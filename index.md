@@ -1,7 +1,7 @@
 ## Sophia Davis ##
  *3rd year, UCSD*
 
- ![Sophia, Professional Photo](personalPhotos/IMG_7827.JPG)
+ ![Sophia, Professional Photo](main/personalPhotos/IMG_7827.JPG)
  
  Welcome! My name is Sophia Davis, and I am studying computer Science at UCSD. I aim to hone my skills as much as possible before heading into a position in the industry after school, and I am excited to see what challenges may come in my remaining years as a student, and beyond. 
 
@@ -26,9 +26,9 @@ Adventure Zone*
 
 &emsp; &emsp; &emsp; &emsp; *A video on a mathematical concept that caught my interest recently.*
 
-* ![A screenshot of Sophie from the movie "Howl's Moving Castle"](personalPhotos/20230801_051424708_iOS.jpg)
+* ![A screenshot of Sophie from the movie "Howl's Moving Castle"](main/personalPhotos/20230801_051424708_iOS.jpg)
   
 &emsp; &emsp; &emsp; &emsp; *A screenshot of the main character of my favorite movie, "Howl's Moving Castle".*
 
-* My best friends, Haley and Alena. [(Click here to see a photo of us all together.)](personalPhotos/20230722_014944736_iOS.jpg)
+* My best friends, Haley and Alena. [(Click here to see a photo of us all together.)](main/personalPhotos/20230722_014944736_iOS.jpg)
 
