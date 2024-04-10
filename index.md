@@ -5,7 +5,7 @@
  
  Welcome! My name is Sophia Davis, and I am studying computer Science at UCSD. I aim to hone my skills as much as possible before heading into a position in the industry after school, and I am excited to see what challenges may come in my remaining years as a student, and beyond. 
 
-  In the interest of sharing more personal things about myself, I have curated a list of some ["favorites" below](). Before that, however, here are some of my general priorities I use to guide myself in life. 
+  In the interest of sharing more personal things about myself, I have curated a list of some ["favorites" below](https://github.com/sadsoap/about-me/blob/more-about-me/index.md#favorite-list). Before that, however, here are some of my general priorities I use to guide myself in life. 
 
  ### Some Priorities ###
  1. Family
